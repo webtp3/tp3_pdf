@@ -1,0 +1,20 @@
+{
+    "name": "web-tp3/pdf",
+    "version": "1.0.0",
+    "type": "library",
+    "description": "pdf renderings",
+    "authors": [
+        {
+        "name": "Thomas Ruta",
+        "role": "Developer"
+      }
+    ],
+
+    "autoload": {
+        "psr-4": {
+          "Tp3\\pdf\\": "src/"
+        }
+    }
+
+}
+
