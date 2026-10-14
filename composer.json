@@ -1,6 +1,5 @@
 {
     "name": "web-tp3/pdf",
-    "version": "1.0.1",
     "type": "library",
     "description": "pdf renderings",
     "authors": [
